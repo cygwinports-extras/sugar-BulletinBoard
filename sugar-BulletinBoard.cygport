@@ -1,0 +1,5 @@
+NAME="sugar-BulletinBoard"
+VERSION=2
+RELEASE=2
+SUGAR_TYPE="Honey"
+inherit sugar
